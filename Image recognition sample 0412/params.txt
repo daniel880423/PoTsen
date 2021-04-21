@@ -1,0 +1,5 @@
+--class 101_ObjectCategories/cup --annotations Annotations/cup --output output/cup.svm
+
+--detector output/cup.svm --testing test/cup
+
+--training training --test test
